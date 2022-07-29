@@ -2,7 +2,7 @@
 
 Beginner level task for practicing loops and work with strings.
 
-Estimated time to complete the task - 0.5h.
+Estimated time to complete the task - 1h.
 
 The task requires .NET 6 SDK installed.
 
