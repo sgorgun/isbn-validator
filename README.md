@@ -1,6 +1,6 @@
 # ISBN Verification
 
-Beginner level task for practicing loops and work with strings.
+Beginner level task for practicing loops and string parsing.
 
 Estimated time to complete the task - 1h.
 
